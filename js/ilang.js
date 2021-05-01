@@ -7,12 +7,12 @@ const lang = {
     en : {
         time: "7.00 AM  - 6.00 PM",
         logoLink: "images/logo/logo.png",
-        phone: "(+84)987 216 007",
-        hotline: "(+84)912 63 55 00",
+        phone: "0987 216 007",
+        hotline: "0912 63 55 00",
         detailAddress: "Tòa nhà tập đoàn Thành Công ",
         address: "1st Lane, San Francisco, USA",
-        email: "daovietanhsky@gmail.com",
-        website: "http://daovietanh.github.io",
+        email: "duan.doosanvietnam@gmail.com",
+        website: "https://www.doosanthanhcong.com",
         productcode: "Product code",
         origin: "Origin",
         views: "Views",
@@ -66,8 +66,8 @@ const lang = {
     vi: {
         time: "7.00 AM  - 6.00 PM",
         logoLink: "images/logo/logo.png",
-        phone: "(+84)987 216 007",
-        hotline: "(+84)912 63 55 00",
+        phone: "0987 216 007",
+        hotline: "0912 63 55 00",
         detailAddress: "Tòa nhà Tập đoàn Thành Công ",
         address: "Dịch Vọng hậu, Cầu Giấy, Hà Nội, Việt Nam",
         email: "duan.doosanvietnam@gmail.com",
@@ -114,7 +114,7 @@ const lang = {
             {
               icon: "images/others/phone.svg",
               title: "LIÊN HỆ",
-              description: `Liên hệ: (+84)987 216 007`
+              description: `Liên hệ: 0987 216 007`
             }
         ],
         messageForm: {
