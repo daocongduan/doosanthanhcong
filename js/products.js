@@ -2,8 +2,8 @@ const products = [
     {
         code: "DX225LCA SLR",
         name: "DX225LCA SLR",
-        shortDescription: "",
-        fullDescription: "",
+        shortDescription: "Máy xúc đào chuyên dùng kiểu cần dài",
+        fullDescription: " Loại máy xúc này rất hiệu quả, chuyên sử dụng để nạo vét sông và phù hợp cho các công việc bốc hàng tại bến Cảng",
         origin: "Hàn Quốc",
         specifications: [
             {
