@@ -25,8 +25,8 @@ const products = [
         numberOfImages: 21
     },
     {
-        code: "DX225LCA-2019",
-        name: "DX225LCA-2019",
+        code: "DX225LCA",
+        name: "DX225LCA",
         shortDescription: "",
         fullDescription: "",
         origin: "Hàn Quốc",
@@ -47,8 +47,8 @@ const products = [
         numberOfImages: 52
     },
     {
-        code: "DX300LCA-2019",
-        name: "DX300LCA-2019",
+        code: "DX300LCA",
+        name: "DX300LCA",
         shortDescription: "",
         fullDescription: "",
         origin: "Hàn Quốc",
@@ -58,8 +58,8 @@ const products = [
         numberOfImages: 31
     },
     {
-        code: "DX340LCA-2019",
-        name: "DX340LCA-2019",
+        code: "DX340LCA",
+        name: "DX340LCA",
         shortDescription: "",
         fullDescription: "",
         origin: "Hàn Quốc",
@@ -179,8 +179,8 @@ const products = [
         numberOfImages: 79
     },
     {
-        code: "SD300N-2019",
-        name: "SD300N-2019",
+        code: "SD300N",
+        name: "SD300N",
         shortDescription: "",
         fullDescription: "",
         origin: "Hàn Quốc",
@@ -190,8 +190,8 @@ const products = [
         numberOfImages: 61
     },
     {
-        code: "SD300N-2020",
-        name: "SD300N-2020",
+        code: "SD300N",
+        name: "SD300N",
         shortDescription: "",
         fullDescription: "",
         origin: "Hàn Quốc",
