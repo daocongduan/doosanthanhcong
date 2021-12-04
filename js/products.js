@@ -38,7 +38,7 @@ const products = [
      {
         code: "DX360LCA-7M",
         name: "DX360LCA-7M",
-        shortDescription: "Thế hệ mới -7M sử dụng bơm thủy lực điện tử vô cùng tiết kiệm nhiên liệu và tăng hiệu năng công việc",
+        shortDescription: "Thế hệ mới -7M sử dụng bơm thủy lực điện tử vô cùng tiết kiệm nhiên liệu và tăng hiệu năng công việc. Dung tích gầu xúc từ 1,6m3 - 1,81m3",
         fullDescription: "",
         origin: "Hàn Quốc",
         specifications: [],
