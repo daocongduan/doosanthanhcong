@@ -35,6 +35,17 @@ const products = [
         imagesDirs: "images/products/exca-crawler/DX225LCA-2019/",
         numberOfImages: 57
     },
+     {
+        code: "DX360LCA-7M",
+        name: "DX360LCA-7M",
+        shortDescription: "Thế hệ mới -7M sử dụng bơm thủy lực điện tử vô cùng tiết kiệm nhiên liệu và tăng hiệu năng công việc",
+        fullDescription: "",
+        origin: "Hàn Quốc",
+        specifications: [],
+        bread: "1.0",
+        imagesDirs: "images/products/exca-crawler/DX360LCA-7M/",
+        numberOfImages: 5
+    },
     {
         code: "DX260LCA",
         name: "DX260LCA",
