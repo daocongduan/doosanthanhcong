@@ -35,7 +35,7 @@ const products = [
         imagesDirs: "images/products/exca-crawler/DX225LCA-2019/",
         numberOfImages: 57
     },
-     {
+    {
         code: "DX360LCA-7M",
         name: "DX360LCA-7M",
         shortDescription: "Thế hệ mới -7M sử dụng bơm thủy lực điện tử vô cùng tiết kiệm nhiên liệu và tăng hiệu năng công việc. Dung tích gầu xúc từ 1,6m3 - 1,81m3",
@@ -44,6 +44,17 @@ const products = [
         specifications: [],
         bread: "1.0",
         imagesDirs: "images/products/exca-crawler/DX360LCA-7M/",
+        numberOfImages: 5
+    },
+    {
+        code: "DX225LCA-7M",
+        name: "DX225LCA-7M",
+        shortDescription: "Thế hệ mới -7M sử dụng bơm thủy lực điện tử vô cùng tiết kiệm nhiên liệu và tăng hiệu năng công việc. Dung tích gầu xúc từ 1,08m3",
+        fullDescription: "",
+        origin: "Hàn Quốc",
+        specifications: [],
+        bread: "1.0",
+        imagesDirs: "images/products/exca-crawler/DX225LCA-7M/",
         numberOfImages: 5
     },
     {
