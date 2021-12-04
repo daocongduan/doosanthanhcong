@@ -201,26 +201,15 @@ const products = [
         numberOfImages: 79
     },
     {
-        code: "SD300N",
-        name: "SD300N",
-        shortDescription: "",
-        fullDescription: "",
-        origin: "Hàn Quốc",
-        specifications: [],
-        bread: "1.2",
-        imagesDirs: "images/products/exca-heavy/SD300N-2019/",
-        numberOfImages: 61
-    },
-    {
-        code: "SD300N",
-        name: "SD300N",
+        code: "SD300N-2021",
+        name: "SD300N-2021",
         shortDescription: "",
         fullDescription: "",
         origin: "Trung Quốc",
         specifications: [],
         bread: "1.2",
-        imagesDirs: "images/products/exca-heavy/SD300N-2020/",
-        numberOfImages: 35
+        imagesDirs: "images/products/exca-heavy/SD300N-2021/",
+        numberOfImages: 7
     },
     {
         code: "DL320A-2021",
