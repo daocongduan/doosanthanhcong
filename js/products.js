@@ -216,11 +216,22 @@ const products = [
         name: "SD300N",
         shortDescription: "",
         fullDescription: "",
-        origin: "Hàn Quốc",
+        origin: "Trung Quốc",
         specifications: [],
         bread: "1.2",
         imagesDirs: "images/products/exca-heavy/SD300N-2020/",
         numberOfImages: 35
+    },
+    {
+        code: "DL320A-2021",
+        name: "DL320A-2021",
+        shortDescription: "Máy xúc lật bánh lốp DL320A, gầu xúc 3m3, thế hệ -7M mới giúp tiết kiệm nhiên liệu và tăng hiệu năng công việc",
+        fullDescription: "",
+        origin: "Hàn Quốc",
+        specifications: [],
+        bread: "1.2",
+        imagesDirs: "images/products/exca-heavy/DL320A-2021/",
+        numberOfImages: 5
     },
     {
         code: "Doosan",
