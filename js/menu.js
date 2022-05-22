@@ -46,23 +46,5 @@ const main_menu = [
                 ]
             },
         ],
-    },
-    { 
-        "name": "Giới thiệu", 
-        "route": "about.html?bread=2", 
-        "bread": "2" 
-    },
-    {
-        "bread": "3",
-        "name": "Tin tức", 
-        "route": "news.html?bread=3",
-        "subroute": [
-
-        ],
-    },
-    { 
-        "route": "contact.html?bread=4", 
-        "bread": "4",
-        "name": "Liên hệ" 
     }
 ]
