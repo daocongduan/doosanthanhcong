@@ -145,6 +145,17 @@ const products = [
         imagesDirs: "images/products/exca-crawler/DX800LC/",
         numberOfImages: 6
     },
+     {
+        code: "DX55WE",
+        name: "DX55WE",
+        shortDescription: "",
+        fullDescription: "",
+        origin: "Trung Quốc",
+        specifications: [],
+        bread: "1.1",
+        imagesDirs: "images/products/exca-wheel/DX55WE/",
+        numberOfImages: 4
+    },
     {
         code: "DX55W",
         name: "DX55W",
